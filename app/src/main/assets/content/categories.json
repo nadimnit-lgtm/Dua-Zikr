@@ -1,0 +1,184 @@
+{
+ "categories": [
+  {
+   "id": "quranic_duas",
+   "type": "dua",
+   "label": "Quranic Duas",
+   "display_order": 1,
+   "icon": "📖",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 23
+  },
+  {
+   "id": "duas_of_the_prophets",
+   "type": "dua",
+   "label": "Duas of the Prophets",
+   "display_order": 2,
+   "icon": "🕌",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 8
+  },
+  {
+   "id": "salah_duas",
+   "type": "dua",
+   "label": "Salah Duas",
+   "display_order": 3,
+   "icon": "🕋",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 3
+  },
+  {
+   "id": "situational_duas",
+   "type": "dua",
+   "label": "Situational Duas",
+   "display_order": 4,
+   "icon": "🤲",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 20
+  },
+  {
+   "id": "daily_life_duas",
+   "type": "dua",
+   "label": "Daily Life Duas",
+   "display_order": 5,
+   "icon": "🌿",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 11
+  },
+  {
+   "id": "quran_for_protection",
+   "type": "azkar",
+   "label": "Quran for Protection",
+   "display_order": 6,
+   "icon": "🛡️",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 6
+  },
+  {
+   "id": "istighfar",
+   "type": "azkar",
+   "label": "Istighfar",
+   "display_order": 7,
+   "icon": "🔁",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 4
+  },
+  {
+   "id": "daily_azkar",
+   "type": "azkar",
+   "label": "Daily Azkar",
+   "display_order": 8,
+   "icon": "🌅",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 9
+  },
+  {
+   "id": "protection_azkar",
+   "type": "azkar",
+   "label": "Protection Azkar",
+   "display_order": 9,
+   "icon": "🛡️",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 3
+  },
+  {
+   "id": "tasbih",
+   "type": "azkar",
+   "label": "Tasbih",
+   "display_order": 10,
+   "icon": "📿",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 3
+  },
+  {
+   "id": "tahlil",
+   "type": "azkar",
+   "label": "Tahlil",
+   "display_order": 11,
+   "icon": "☝️",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 1
+  },
+  {
+   "id": "salah_azkar",
+   "type": "azkar",
+   "label": "Salah Azkar",
+   "display_order": 12,
+   "icon": "🕋",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 2
+  },
+  {
+   "id": "hawqalah",
+   "type": "azkar",
+   "label": "Hawqalah",
+   "display_order": 13,
+   "icon": "💪",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 1
+  },
+  {
+   "id": "hasbalah",
+   "type": "azkar",
+   "label": "Hasbalah",
+   "display_order": 14,
+   "icon": "🌟",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 1
+  },
+  {
+   "id": "darood_and_salawat",
+   "type": "azkar",
+   "label": "Darood and Salawat",
+   "display_order": 15,
+   "icon": "🌹",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 5
+  },
+  {
+   "id": "adhan_azkar",
+   "type": "azkar",
+   "label": "Adhan Azkar",
+   "display_order": 16,
+   "icon": "🔊",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 1
+  },
+  {
+   "id": "wudu_azkar",
+   "type": "azkar",
+   "label": "Wudu Azkar",
+   "display_order": 17,
+   "icon": "💧",
+   "color_theme": "green",
+   "tv_rotation": true,
+   "count": 1
+  },
+  {
+   "id": "kalima",
+   "type": "azkar",
+   "label": "Kalima",
+   "display_order": 18,
+   "icon": "✨",
+   "color_theme": "goldnavy",
+   "tv_rotation": true,
+   "count": 6
+  }
+ ]
+}

@@ -1,0 +1,944 @@
+{
+ "sections": [
+  {
+   "id": "quranic",
+   "label": "Quranic",
+   "count": 31,
+   "item_ids": [
+    "dua_dunya_akhirah",
+    "dua_la_tuakhidhna",
+    "dua_la_tuzigh",
+    "dua_amanna_faghfir",
+    "dua_afrigh_sabran",
+    "dua_ma_khalaqta_batila",
+    "dua_ladunka_rahmah",
+    "dua_zidni_ilma",
+    "dua_ishrah_sadri",
+    "dua_qurrata_ayun",
+    "dua_muqimas_salah",
+    "dua_ighfir_walidayya",
+    "dua_irhamhuma",
+    "dua_taqabbal_minna",
+    "dua_awzini_ashkur",
+    "dua_atmim_nurana",
+    "dua_hamazat",
+    "dua_khayrin_faqir",
+    "dua_yunus",
+    "dua_adam",
+    "dua_musa_zalamtu",
+    "dua_ayyub",
+    "dua_zakariyya",
+    "dua_yusuf_good_ending",
+    "dua_nuh_parents",
+    "dua_gathering_day",
+    "dua_witnesses",
+    "dua_decide_in_truth",
+    "dua_not_a_trial",
+    "dua_wisdom_righteous",
+    "dua_brotherhood"
+   ]
+  },
+  {
+   "id": "daily",
+   "label": "Daily Life",
+   "count": 17,
+   "item_ids": [
+    "dua_dunya_akhirah",
+    "dua_home_enter",
+    "dua_home_leave",
+    "dua_masjid_enter",
+    "dua_masjid_leave",
+    "dua_food_after",
+    "dua_travel_transport",
+    "dua_rain",
+    "dua_new_clothes",
+    "dua_market",
+    "azkar_hawqala",
+    "azkar_hasbunallah",
+    "azkar_kalimatani",
+    "azkar_restroom_enter",
+    "azkar_restroom_leave",
+    "azkar_wudu_after",
+    "azkar_salawat_short"
+   ]
+  },
+  {
+   "id": "morning",
+   "label": "Morning",
+   "count": 16,
+   "item_ids": [
+    "dua_rahmataka_arju",
+    "dua_knowledge_nafi",
+    "dua_afiyah",
+    "azkar_ayatul_kursi",
+    "azkar_ikhlas",
+    "azkar_falaq",
+    "azkar_nas",
+    "azkar_sayyidul_istighfar",
+    "azkar_asbahna_mulk",
+    "azkar_bika_asbahna",
+    "azkar_bismillah_la_yadurru",
+    "azkar_hasbiyallahu",
+    "azkar_raditu_billah",
+    "azkar_subhanallahi_bihamdihi_100",
+    "azkar_subhanallah_adada_khalqih",
+    "azkar_tahlil_100"
+   ]
+  },
+  {
+   "id": "evening",
+   "label": "Evening",
+   "count": 16,
+   "item_ids": [
+    "dua_rahmataka_arju",
+    "dua_afiyah",
+    "azkar_ayatul_kursi",
+    "azkar_ikhlas",
+    "azkar_falaq",
+    "azkar_nas",
+    "azkar_sayyidul_istighfar",
+    "azkar_amsayna_mulk",
+    "azkar_bika_amsayna",
+    "azkar_audhu_kalimatillah",
+    "azkar_bismillah_la_yadurru",
+    "azkar_hasbiyallahu",
+    "azkar_raditu_billah",
+    "azkar_subhanallahi_bihamdihi_100",
+    "azkar_subhanallah_adada_khalqih",
+    "azkar_tahlil_100"
+   ]
+  },
+  {
+   "id": "protection",
+   "label": "Protection",
+   "count": 14,
+   "item_ids": [
+    "dua_dunya_akhirah",
+    "dua_hamazat",
+    "dua_home_leave",
+    "dua_protection_four",
+    "dua_children_uidhukuma",
+    "dua_not_a_trial",
+    "azkar_ayatul_kursi",
+    "azkar_ikhlas",
+    "azkar_falaq",
+    "azkar_nas",
+    "azkar_baqarah_last2",
+    "azkar_audhu_kalimatillah",
+    "azkar_bismillah_la_yadurru",
+    "azkar_restroom_enter"
+   ]
+  },
+  {
+   "id": "forgiveness",
+   "label": "Forgiveness",
+   "count": 10,
+   "item_ids": [
+    "dua_la_tuakhidhna",
+    "dua_amanna_faghfir",
+    "dua_ighfir_walidayya",
+    "dua_adam",
+    "dua_musa_zalamtu",
+    "dua_laylatulqadr",
+    "dua_brotherhood",
+    "azkar_sayyidul_istighfar",
+    "azkar_astaghfirullah_atubu",
+    "azkar_astaghfirullah_azim"
+   ]
+  },
+  {
+   "id": "prophets",
+   "label": "Prophets",
+   "count": 10,
+   "item_ids": [
+    "dua_ishrah_sadri",
+    "dua_muqimas_salah",
+    "dua_yunus",
+    "dua_adam",
+    "dua_musa_zalamtu",
+    "dua_ayyub",
+    "dua_zakariyya",
+    "dua_yusuf_good_ending",
+    "dua_nuh_parents",
+    "dua_wisdom_righteous"
+   ]
+  },
+  {
+   "id": "distress",
+   "label": "Distress",
+   "count": 9,
+   "item_ids": [
+    "dua_yunus",
+    "dua_ayyub",
+    "dua_anxiety_hammwalhazan",
+    "dua_distress_azim_halim",
+    "dua_rahmataka_arju",
+    "dua_decide_in_truth",
+    "dua_not_a_trial",
+    "dua_ease_hardship",
+    "azkar_hasbunallah"
+   ]
+  },
+  {
+   "id": "ruqyah",
+   "label": "Ruqyah",
+   "count": 8,
+   "item_ids": [
+    "dua_illness_adhhibilbas",
+    "azkar_ayatul_kursi",
+    "azkar_ikhlas",
+    "azkar_falaq",
+    "azkar_nas",
+    "azkar_baqarah_last2",
+    "azkar_fatihah",
+    "azkar_audhu_kalimatillah"
+   ]
+  },
+  {
+   "id": "sleep",
+   "label": "Before Sleep",
+   "count": 8,
+   "item_ids": [
+    "dua_sleep_aslamtu",
+    "azkar_ayatul_kursi",
+    "azkar_ikhlas",
+    "azkar_falaq",
+    "azkar_nas",
+    "azkar_baqarah_last2",
+    "azkar_tasbih_after_salah",
+    "azkar_sleep_bismika"
+   ]
+  },
+  {
+   "id": "anxiety",
+   "label": "Anxiety",
+   "count": 7,
+   "item_ids": [
+    "dua_yunus",
+    "dua_anxiety_hammwalhazan",
+    "dua_distress_azim_halim",
+    "dua_rahmataka_arju",
+    "azkar_hasbiyallahu",
+    "azkar_hawqala",
+    "azkar_hasbunallah"
+   ]
+  },
+  {
+   "id": "tawbah",
+   "label": "Tawbah",
+   "count": 7,
+   "item_ids": [
+    "dua_adam",
+    "azkar_sayyidul_istighfar",
+    "azkar_astaghfirullah_atubu",
+    "azkar_astaghfirullah_azim",
+    "azkar_kaffaratul_majlis",
+    "azkar_kalima_istighfar",
+    "azkar_kalima_radde_kufr"
+   ]
+  },
+  {
+   "id": "istighfar",
+   "label": "Istighfar",
+   "count": 7,
+   "item_ids": [
+    "azkar_sayyidul_istighfar",
+    "azkar_astaghfirullah_atubu",
+    "azkar_astaghfirullah_azim",
+    "azkar_aftersalah_antassalam",
+    "azkar_kaffaratul_majlis",
+    "azkar_restroom_leave",
+    "azkar_kalima_istighfar"
+   ]
+  },
+  {
+   "id": "illness",
+   "label": "Illness",
+   "count": 6,
+   "item_ids": [
+    "dua_ayyub",
+    "dua_illness_ashfika",
+    "dua_illness_adhhibilbas",
+    "dua_pain_izzatillah",
+    "dua_afiyah",
+    "dua_visiting_sick"
+   ]
+  },
+  {
+   "id": "salawat",
+   "label": "Salawat",
+   "count": 6,
+   "item_ids": [
+    "azkar_darood_ibrahim",
+    "azkar_after_adhan_wasilah",
+    "azkar_salawat_short",
+    "azkar_salawat_fatih",
+    "azkar_salawat_munjiyah",
+    "azkar_salawat_tibbiyah"
+   ]
+  },
+  {
+   "id": "kalima",
+   "label": "Kalima",
+   "count": 6,
+   "item_ids": [
+    "azkar_kalima_tayyibah",
+    "azkar_kalima_shahadah",
+    "azkar_kalima_tamjeed",
+    "azkar_kalima_tawheed",
+    "azkar_kalima_istighfar",
+    "azkar_kalima_radde_kufr"
+   ]
+  },
+  {
+   "id": "after_salah",
+   "label": "After Salah",
+   "count": 5,
+   "item_ids": [
+    "dua_protection_four",
+    "azkar_ayatul_kursi",
+    "azkar_tahlil_100",
+    "azkar_aftersalah_antassalam",
+    "azkar_tasbih_after_salah"
+   ]
+  },
+  {
+   "id": "tasbih",
+   "label": "Tasbih",
+   "count": 5,
+   "item_ids": [
+    "azkar_subhanallahi_bihamdihi_100",
+    "azkar_subhanallah_adada_khalqih",
+    "azkar_tasbih_after_salah",
+    "azkar_kalimatani",
+    "azkar_kalima_tamjeed"
+   ]
+  },
+  {
+   "id": "darood",
+   "label": "Darood & Salawat",
+   "count": 5,
+   "item_ids": [
+    "azkar_darood_ibrahim",
+    "azkar_salawat_short",
+    "azkar_salawat_fatih",
+    "azkar_salawat_munjiyah",
+    "azkar_salawat_tibbiyah"
+   ]
+  },
+  {
+   "id": "guidance",
+   "label": "Guidance",
+   "count": 4,
+   "item_ids": [
+    "dua_la_tuzigh",
+    "dua_ladunka_rahmah",
+    "dua_ishrah_sadri",
+    "azkar_fatihah"
+   ]
+  },
+  {
+   "id": "steadfastness",
+   "label": "Steadfastness",
+   "count": 4,
+   "item_ids": [
+    "dua_la_tuzigh",
+    "dua_afrigh_sabran",
+    "dua_gathering_day",
+    "dua_witnesses"
+   ]
+  },
+  {
+   "id": "family",
+   "label": "Family",
+   "count": 4,
+   "item_ids": [
+    "dua_qurrata_ayun",
+    "dua_muqimas_salah",
+    "dua_brotherhood",
+    "dua_marriage_blessing"
+   ]
+  },
+  {
+   "id": "children",
+   "label": "Children",
+   "count": 4,
+   "item_ids": [
+    "dua_qurrata_ayun",
+    "dua_muqimas_salah",
+    "dua_zakariyya",
+    "dua_children_uidhukuma"
+   ]
+  },
+  {
+   "id": "parents",
+   "label": "Parents",
+   "count": 4,
+   "item_ids": [
+    "dua_ighfir_walidayya",
+    "dua_irhamhuma",
+    "dua_awzini_ashkur",
+    "dua_nuh_parents"
+   ]
+  },
+  {
+   "id": "rizq",
+   "label": "Rizq",
+   "count": 4,
+   "item_ids": [
+    "dua_khayrin_faqir",
+    "dua_debt_kfini",
+    "dua_masjid_leave",
+    "dua_knowledge_nafi"
+   ]
+  },
+  {
+   "id": "protection_hellfire",
+   "label": "From Hellfire",
+   "count": 3,
+   "item_ids": [
+    "dua_amanna_faghfir",
+    "dua_ma_khalaqta_batila",
+    "dua_jannah_naar"
+   ]
+  },
+  {
+   "id": "knowledge",
+   "label": "Knowledge",
+   "count": 3,
+   "item_ids": [
+    "dua_zidni_ilma",
+    "dua_knowledge_nafi",
+    "dua_wisdom_righteous"
+   ]
+  },
+  {
+   "id": "gratitude",
+   "label": "Gratitude",
+   "count": 3,
+   "item_ids": [
+    "dua_awzini_ashkur",
+    "dua_food_after",
+    "dua_new_clothes"
+   ]
+  },
+  {
+   "id": "home",
+   "label": "Home",
+   "count": 3,
+   "item_ids": [
+    "dua_nuh_parents",
+    "dua_home_enter",
+    "dua_home_leave"
+   ]
+  },
+  {
+   "id": "salah",
+   "label": "In Salah",
+   "count": 3,
+   "item_ids": [
+    "dua_istikhara",
+    "dua_qunoot_witr",
+    "azkar_darood_ibrahim"
+   ]
+  },
+  {
+   "id": "masjid",
+   "label": "Masjid",
+   "count": 3,
+   "item_ids": [
+    "dua_masjid_enter",
+    "dua_masjid_leave",
+    "azkar_after_adhan_wasilah"
+   ]
+  },
+  {
+   "id": "tahlil",
+   "label": "Tahlil",
+   "count": 3,
+   "item_ids": [
+    "azkar_tahlil_100",
+    "azkar_kalima_tayyibah",
+    "azkar_kalima_tawheed"
+   ]
+  },
+  {
+   "id": "protection_shaytan",
+   "label": "From Shaytan",
+   "count": 2,
+   "item_ids": [
+    "dua_hamazat",
+    "azkar_nas"
+   ]
+  },
+  {
+   "id": "good_ending",
+   "label": "Good Ending",
+   "count": 2,
+   "item_ids": [
+    "dua_yusuf_good_ending",
+    "dua_wisdom_righteous"
+   ]
+  },
+  {
+   "id": "qunoot",
+   "label": "Qunoot",
+   "count": 2,
+   "item_ids": [
+    "dua_qunoot_witr",
+    "dua_tahajjud"
+   ]
+  },
+  {
+   "id": "witr",
+   "label": "Witr",
+   "count": 2,
+   "item_ids": [
+    "dua_qunoot_witr",
+    "dua_tahajjud"
+   ]
+  },
+  {
+   "id": "debt",
+   "label": "Debt",
+   "count": 2,
+   "item_ids": [
+    "dua_anxiety_hammwalhazan",
+    "dua_debt_kfini"
+   ]
+  },
+  {
+   "id": "travel",
+   "label": "Travel",
+   "count": 2,
+   "item_ids": [
+    "dua_travel_transport",
+    "dua_travel_birr"
+   ]
+  },
+  {
+   "id": "weather",
+   "label": "Weather",
+   "count": 2,
+   "item_ids": [
+    "dua_rain",
+    "dua_wind"
+   ]
+  },
+  {
+   "id": "funeral",
+   "label": "Funeral",
+   "count": 2,
+   "item_ids": [
+    "dua_janazah",
+    "dua_graves_salam"
+   ]
+  },
+  {
+   "id": "friday",
+   "label": "Friday",
+   "count": 2,
+   "item_ids": [
+    "azkar_darood_ibrahim",
+    "azkar_salawat_short"
+   ]
+  },
+  {
+   "id": "restroom",
+   "label": "Restroom",
+   "count": 2,
+   "item_ids": [
+    "azkar_restroom_enter",
+    "azkar_restroom_leave"
+   ]
+  },
+  {
+   "id": "spouse",
+   "label": "Spouse",
+   "count": 1,
+   "item_ids": [
+    "dua_qurrata_ayun"
+   ]
+  },
+  {
+   "id": "accepted_deeds",
+   "label": "Accepted Deeds",
+   "count": 1,
+   "item_ids": [
+    "dua_taqabbal_minna"
+   ]
+  },
+  {
+   "id": "light",
+   "label": "Light",
+   "count": 1,
+   "item_ids": [
+    "dua_atmim_nurana"
+   ]
+  },
+  {
+   "id": "istikhara",
+   "label": "Istikhara",
+   "count": 1,
+   "item_ids": [
+    "dua_istikhara"
+   ]
+  },
+  {
+   "id": "decision",
+   "label": "Decision",
+   "count": 1,
+   "item_ids": [
+    "dua_istikhara"
+   ]
+  },
+  {
+   "id": "food",
+   "label": "Food & Drink",
+   "count": 1,
+   "item_ids": [
+    "dua_food_after"
+   ]
+  },
+  {
+   "id": "transport",
+   "label": "Transport",
+   "count": 1,
+   "item_ids": [
+    "dua_travel_transport"
+   ]
+  },
+  {
+   "id": "paradise",
+   "label": "Paradise",
+   "count": 1,
+   "item_ids": [
+    "dua_jannah_naar"
+   ]
+  },
+  {
+   "id": "protection_grave",
+   "label": "From Grave",
+   "count": 1,
+   "item_ids": [
+    "dua_protection_four"
+   ]
+  },
+  {
+   "id": "protection_dajjal",
+   "label": "From Dajjal",
+   "count": 1,
+   "item_ids": [
+    "dua_protection_four"
+   ]
+  },
+  {
+   "id": "protection_evil_eye",
+   "label": "From Evil Eye",
+   "count": 1,
+   "item_ids": [
+    "dua_children_uidhukuma"
+   ]
+  },
+  {
+   "id": "ramadan",
+   "label": "Ramadan",
+   "count": 1,
+   "item_ids": [
+    "dua_laylatulqadr"
+   ]
+  },
+  {
+   "id": "laylatul_qadr",
+   "label": "Laylatul Qadr",
+   "count": 1,
+   "item_ids": [
+    "dua_laylatulqadr"
+   ]
+  },
+  {
+   "id": "graveyard",
+   "label": "Graveyard",
+   "count": 1,
+   "item_ids": [
+    "dua_graves_salam"
+   ]
+  },
+  {
+   "id": "afiyah",
+   "label": "Well-being",
+   "count": 1,
+   "item_ids": [
+    "dua_afiyah"
+   ]
+  },
+  {
+   "id": "clothes",
+   "label": "Clothes",
+   "count": 1,
+   "item_ids": [
+    "dua_new_clothes"
+   ]
+  },
+  {
+   "id": "marriage",
+   "label": "Marriage",
+   "count": 1,
+   "item_ids": [
+    "dua_marriage_blessing"
+   ]
+  },
+  {
+   "id": "hajj",
+   "label": "Hajj",
+   "count": 1,
+   "item_ids": [
+    "dua_talbiyah"
+   ]
+  },
+  {
+   "id": "umrah",
+   "label": "Umrah",
+   "count": 1,
+   "item_ids": [
+    "dua_talbiyah"
+   ]
+  },
+  {
+   "id": "difficulty",
+   "label": "Difficulty",
+   "count": 1,
+   "item_ids": [
+    "dua_ease_hardship"
+   ]
+  },
+  {
+   "id": "market",
+   "label": "Market",
+   "count": 1,
+   "item_ids": [
+    "dua_market"
+   ]
+  },
+  {
+   "id": "tahajjud",
+   "label": "Tahajjud",
+   "count": 1,
+   "item_ids": [
+    "dua_tahajjud"
+   ]
+  },
+  {
+   "id": "protection_magic",
+   "label": "From Magic",
+   "count": 1,
+   "item_ids": [
+    "azkar_falaq"
+   ]
+  },
+  {
+   "id": "protection_envy",
+   "label": "From Envy",
+   "count": 1,
+   "item_ids": [
+    "azkar_falaq"
+   ]
+  },
+  {
+   "id": "tahmid",
+   "label": "Tahmid",
+   "count": 1,
+   "item_ids": [
+    "azkar_tasbih_after_salah"
+   ]
+  },
+  {
+   "id": "takbir",
+   "label": "Takbir",
+   "count": 1,
+   "item_ids": [
+    "azkar_tasbih_after_salah"
+   ]
+  },
+  {
+   "id": "tashahhud",
+   "label": "Tashahhud",
+   "count": 1,
+   "item_ids": [
+    "azkar_darood_ibrahim"
+   ]
+  },
+  {
+   "id": "gatherings",
+   "label": "Gatherings",
+   "count": 1,
+   "item_ids": [
+    "azkar_kaffaratul_majlis"
+   ]
+  },
+  {
+   "id": "adhan",
+   "label": "Adhan",
+   "count": 1,
+   "item_ids": [
+    "azkar_after_adhan_wasilah"
+   ]
+  },
+  {
+   "id": "wudu",
+   "label": "Wudu",
+   "count": 1,
+   "item_ids": [
+    "azkar_wudu_after"
+   ]
+  },
+  {
+   "id": "wake_up",
+   "label": "Wake Up",
+   "count": 1,
+   "item_ids": [
+    "azkar_wakeup"
+   ]
+  },
+  {
+   "id": "shahadah",
+   "label": "Shahadah",
+   "count": 1,
+   "item_ids": [
+    "azkar_kalima_shahadah"
+   ]
+  }
+ ],
+ "rotation_modes": [
+  {
+   "id": "mixed",
+   "label": "Mixed (Dua & Azkar)",
+   "filter": {}
+  },
+  {
+   "id": "dua_only",
+   "label": "Dua Only",
+   "filter": {
+    "type": "dua"
+   }
+  },
+  {
+   "id": "azkar_only",
+   "label": "Azkar Only",
+   "filter": {
+    "type": "azkar"
+   }
+  },
+  {
+   "id": "quranic",
+   "label": "Quranic Duas",
+   "filter": {
+    "type": "dua",
+    "source_type": "quran"
+   }
+  },
+  {
+   "id": "prophetic",
+   "label": "Prophetic Duas",
+   "filter": {
+    "type": "dua",
+    "source_type": "hadith"
+   }
+  },
+  {
+   "id": "morning",
+   "label": "Morning Azkar",
+   "filter": {
+    "tag": "morning"
+   }
+  },
+  {
+   "id": "evening",
+   "label": "Evening Azkar",
+   "filter": {
+    "tag": "evening"
+   }
+  },
+  {
+   "id": "after_salah",
+   "label": "After Salah",
+   "filter": {
+    "tag": "after_salah"
+   }
+  },
+  {
+   "id": "sleep",
+   "label": "Before Sleep",
+   "filter": {
+    "tag": "sleep"
+   }
+  },
+  {
+   "id": "wake_up",
+   "label": "Wake Up",
+   "filter": {
+    "tag": "wake_up"
+   }
+  },
+  {
+   "id": "protection",
+   "label": "Protection",
+   "filter": {
+    "tag": "protection"
+   }
+  },
+  {
+   "id": "ruqyah",
+   "label": "Ruqyah",
+   "filter": {
+    "tag": "ruqyah"
+   }
+  },
+  {
+   "id": "istighfar",
+   "label": "Istighfar",
+   "filter": {
+    "tag": "istighfar"
+   }
+  },
+  {
+   "id": "salawat",
+   "label": "Darood & Salawat",
+   "filter": {
+    "tags": [
+     "salawat",
+     "darood"
+    ]
+   }
+  },
+  {
+   "id": "tasbih",
+   "label": "Tasbih & Dhikr",
+   "filter": {
+    "tags": [
+     "tasbih",
+     "tahlil",
+     "takbir",
+     "tahmid"
+    ]
+   }
+  },
+  {
+   "id": "witr_qunoot",
+   "label": "Witr & Qunoot",
+   "filter": {
+    "tags": [
+     "witr",
+     "qunoot"
+    ]
+   }
+  },
+  {
+   "id": "favorites",
+   "label": "Favourites",
+   "filter": {
+    "special": "favorites"
+   }
+  }
+ ]
+}
